@@ -34,4 +34,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/subtitles.srt</name>
+			<type>1</type>
+			<location>C:/Users/Val_travail/Documents/Workspace/Eclipse/Activite/WebContent/WEB-INF/subtitles.srt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
